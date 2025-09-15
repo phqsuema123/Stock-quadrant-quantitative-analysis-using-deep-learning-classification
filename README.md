@@ -21,7 +21,7 @@ It integrates **Deep Learning** models with **financial and technical indicators
 * 📈 **Stock Classification** into 25 quadrants (Aa–Ee).
 * 🤖 **Deep Learning Model (ANN)** for quantitative trading signals.
 * 🔄 **Real-time data ingestion** from **SETTRADE API**.
-* 🛠️ **ETL Pipeline** to clean, transform, and store data in PostgreSQL.
+* 🛠️ **ETL Pipeline** to clean, transform, and store data in Cassandra.
 * 📊 **Visualization Dashboard** with Plotly (quadrants, heatmaps, correlation matrix).
 * ✅ Model evaluation with **Accuracy & F1-score** benchmarks.
 
