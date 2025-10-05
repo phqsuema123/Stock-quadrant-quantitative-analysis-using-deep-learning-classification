@@ -1,5 +1,4 @@
 # Stock-quadrant-quantitative-analysis-using-deep-learning-classification
-ได้เลยครับ ผมจะช่วยทำ **README.md** สำหรับไฟล์ `present50percent.ipynb` โดยอิงจากไฟล์โปรเจกต์ *Stock quadrant quantitative analysis using deep learning classification* ที่คุณอัปโหลดไว้
 
 ---
 
